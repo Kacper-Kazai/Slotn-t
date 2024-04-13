@@ -1,0 +1,21 @@
+{
+  "credit": "Made with Blockbench",
+  "textures": {
+    "0": "slotnot:item/gui_background"
+  },
+  "elements": [
+    {
+      "from": [-1, -1, 0],
+      "to": [17, 17, 1],
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+        "east": {"uv": [0, 0, 1, 16], "texture": "#missing"},
+        "south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+        "west": {"uv": [0, 0, 1, 16], "texture": "#missing"},
+        "up": {"uv": [0, 0, 16, 1], "texture": "#missing"},
+        "down": {"uv": [0, 0, 16, 1], "texture": "#missing"}
+      }
+    }
+  ],
+  "gui_light": "front"
+}
